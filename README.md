@@ -1,6 +1,6 @@
 # Support Applications Mobile
 
-Contactez contact@ownest.io pour toutes questions vis à vis des applications mobile Ownest
+Contactez contact@ownest.io pour toutes questions vis à vis des applications Ownest
 
 # Mobile apps support
 
